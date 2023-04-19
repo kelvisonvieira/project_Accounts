@@ -1,7 +1,6 @@
 {
   "name": "aula6",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -13,5 +12,15 @@
   "dependencies": {
     "chalk": "^5.2.0",
     "inquirer": "^9.1.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvisonvieira/project_Accounts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kelvisonvieira/project_Accounts/issues"
+  },
+  "homepage": "https://github.com/kelvisonvieira/project_Accounts#readme",
+  "description": ""
 }
